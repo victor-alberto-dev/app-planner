@@ -5,3 +5,5 @@
  * Selecionar o horario que a atividade foi/será realizada
  * Salvar atividade
  * Selecionar se a atividade foi concluída
+
+Para acessar o aplicativo, [clique aqui](https://victor-alberto-dev.github.io/app-planner/)
